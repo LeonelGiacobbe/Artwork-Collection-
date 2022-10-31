@@ -2,6 +2,8 @@
 
 ["Flow Fields" Link] (https://leonelgiacobbe.github.io/Flow-Fields/)
 
+["Sine Spiral" Link] (https://leonelgiacobbe.github.io/Sine-Spiral/)
+
 ["Overlapping Trails" Link] (https://leonelgiacobbe.github.io/Overlapping-Trails/)
 
 ["Bouncing Ball" Link] (https://leonelgiacobbe.github.io/Bouncing-Ball/)
