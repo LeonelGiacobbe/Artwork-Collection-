@@ -2,7 +2,7 @@
 
 ["Flow Fields" Link] (https://leonelgiacobbe.github.io/Flow-Fields/)
 
-["Randomly Generated Terrain" Link"] https://leonelgiacobbe.github.io/Terrain-Generation/. *Project is incomatible with some devices so I will attach a video of what the project looks like. -> 
+["Randomly Generated Terrain" Link"] https://leonelgiacobbe.github.io/Terrain-Generation/. ***Project is incomatible with some devices so I will attach a video of what the project looks like.*** -> 
 
 ["Sine Spiral" Link] (https://leonelgiacobbe.github.io/Sine-Spiral/)
 
