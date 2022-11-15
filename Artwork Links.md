@@ -4,8 +4,10 @@
 
 ["Randomly Generated Terrain" Link"] https://leonelgiacobbe.github.io/Terrain-Generation/. ***Project is incompatible with some devices***
 
-["Sine Spiral" Link] (https://leonelgiacobbe.github.io/Sine-Spiral/)
+["Camouflage" Link] (https://leonelgiacobbe.github.io/Camouflage/)
 
+["Sine Spiral" Link] (https://leonelgiacobbe.github.io/Sine-Spiral/)
+                 
 ["Overlapping Trails" Link] (https://leonelgiacobbe.github.io/Overlapping-Trails/)
 
 ["Bouncing Ball" Link] (https://leonelgiacobbe.github.io/Bouncing-Ball/)
