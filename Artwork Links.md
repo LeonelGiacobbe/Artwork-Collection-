@@ -2,7 +2,7 @@
 
 ["Flow Fields" Link] (https://leonelgiacobbe.github.io/Flow-Fields/)
 
-["Randomly Generated Terrain" Link"] https://leonelgiacobbe.github.io/Terrain-Generation/. ***Project is incompatible with some devices***
+["Randomly Generated Terrain" Link"] (https://leonelgiacobbe.github.io/Terrain-Generation/). ***Project is incompatible with some devices***
 
 ["Camouflage" Link] (https://leonelgiacobbe.github.io/Camouflage/)
 
